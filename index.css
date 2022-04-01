@@ -1,0 +1,95 @@
+#title {
+  text-align: center;
+}
+.header-img {
+  width: 100%;
+  height: 768px;
+  background: url('https://venturebeat.com/wp-content/uploads/2014/12/J-Stars-Victory-VS-.jpg?fit=750%2C422&strip=all');
+  background-size: cover;
+}
+
+.header-button .btn{
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.header-button .btn:hover{
+  background-color: rgb(197, 12, 12);
+  opacity: 0.2;
+}
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(5, 4fr);
+    grid-auto-rows: 80px;
+  }
+  
+  .wrapper > * {
+    border-style: inset;
+    margin-left: auto;
+    margin-right: auto;
+  }
+#gifDisp #lBtn{
+    position: absolute;
+    top: 78%;
+    left: 66.5%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(8, 8, 8);
+    color: rgb(52, 236, 15);
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#Likes {
+  position: absolute;
+    top: 74%;
+    left: 85%;
+    width: 150px;
+    height: 150px;
+}
+
+#gifDisp #dBtn{
+  position: absolute;
+  top: 140%;
+  left: 67.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(5, 5, 5);
+  color: rgb(238, 14, 6);
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#Dislikes {
+  position: absolute;
+    top: 115%;
+    left: 85%;
+    width: 150px;
+    height: 150px;
+}
+
+#animeTitle {
+  font-size: 50px
+}
+
+/* #box1 > #img {
+   height: 100px;
+   width: 100px;
+}
+*/

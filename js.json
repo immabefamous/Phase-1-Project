@@ -1,0 +1,127 @@
+{
+    "anime": [
+      {
+        "id": 1,
+        "name": "Code Geass",
+        "image":"https://w7.pngwing.com/pngs/62/613/png-transparent-logo-lelouch-lamperouge-geass-television-show-code-geass-emblem-text-logo.png",
+        "gif": "https://media.giphy.com/media/3PxSmPCeQsVGUl2Q35/giphy.gif"
+      },
+      {
+        "id": 2,
+        "name": "Full Metal Alchemist",
+        "image": "https://static.wikia.nocookie.net/logopedia/images/c/c8/FMA_Brotherhood_-_logo.png/revision/latest?cb=20130923075328",
+        "gif": "https://i.pinimg.com/originals/c6/1c/52/c61c523b42312c60a7ded59f05eff5b6.gif"
+      },
+      {
+        "id": 3,
+        "name": "Bleach",
+        "image":"https://images.cults3d.com/a-g1iIi4cTEejtFp5eQvuBEK7sQ=/516x516/https://files.cults3d.com/uploaders/18242147/illustration-file/0938f810-d450-4827-a6d6-83c8deac9869/e660228c73adba24cacb84e3715b8c36.png",
+        "gif": "https://64.media.tumblr.com/4a075e2e827288d6e7dc90be34d45a20/c24616c102ca0fc5-a3/s540x810/aa3761098db405464398cbd60febee4d8669df6a.gifv"
+      },
+      {
+        "id": 4,
+        "name": "Naruto",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/2560px-Naruto_logo.svg.png",
+        "gif": "https://media0.giphy.com/media/Nzz86dByLtYTS/200.gif"
+      },
+      {
+        "id": 5,
+        "name": "Dragon Ball Z",
+        "image":"https://static.wikia.nocookie.net/dragonball/images/9/9b/Dragon_Ball_Z_Logo.png/revision/latest?cb=20130629032530",
+        "gif": "https://i.pinimg.com/originals/3b/95/38/3b95382e9e6161316e2ba90361134f7c.gif"
+      },
+      {
+        "id": 6,
+        "name": "Death Note",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Death_Note_Logo.png",
+        "gif": "https://media0.giphy.com/media/xT1XH3NIegS0FBc1K8/200.gif"
+      },
+      {
+        "id": 7,
+        "name": "Attack on Titan",
+        "image":"https://logos-world.net/wp-content/uploads/2022/01/Attack-on-Titan-Logo.png",
+        "gif": "http://24.media.tumblr.com/fd4383e21495f2bb10ed699cd73f22ca/tumblr_n5l0pk3w4E1so8ds0o1_500.gif"
+      },
+      {
+        "id": 8,
+        "name": "One Piece",
+        "image":"https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/800px-One_Piece_Logo.svg.png",
+        "gif": "https://i.pinimg.com/originals/50/c5/f1/50c5f1847013012ee0f25f67fdddb8d9.gif"
+      },
+      {
+        "id": 9,
+        "name": "Kaiji",
+        "image":"https://images.fanart.tv/fanart/kaiji-5cd4fab371feb.png",
+        "gif": "https://torako.wakarimasen.moe/file/torako/a/image/1523/78/1523787073544.gif"
+      },
+      {
+        "id": 10,
+        "name": "One Punch Man",
+        "image": "https://png.pngitem.com/pimgs/s/120-1206075_one-punch-man-one-punch-man-hd-png.png",
+        "gif": "https://i.makeagif.com/media/5-21-2016/9E4_T3.gif"
+
+      },
+      {
+        "id": 11,
+        "name": "YuYu Haskusho",
+        "image":"https://www.seekpng.com/png/detail/186-1866729_review-de-y-y-hakusho-box-yu-yu.png",
+        "gif": "https://media1.giphy.com/media/RH1vwJMdudV7i/giphy.gif"
+
+      },
+      {
+        "id": 12,
+        "name": "Demon Slayer",
+        "image":"https://logos-world.net/wp-content/uploads/2021/12/Demon-Slayer-Logo.png",
+        "gif": "https://c.tenor.com/YFLDa1vXGGsAAAAd/demon-slayer.gif"
+
+      },
+      {
+        "id": 13,
+        "name": "Hunter X Hunter",
+        "image":"https://spng.pngfind.com/pngs/s/618-6187716_hunter-x-hunter-hd-png-download.png",
+        "gif": "https://thumbs.gfycat.com/CalculatingAbandonedAndalusianhorse-max-1mb.gif"
+      },
+      {
+        "id": 14,
+        "name": "Cowboy Bebop",
+        "image":"https://www.nicepng.com/png/detail/196-1961268_cowboy-bebop-logo-png.png",
+        "gif": "https://giffiles.alphacoders.com/102/102555.gif"
+      },
+      {
+        "id": 15,
+        "name": "Jujustu Kiasen",
+        "image":"https://i.pinimg.com/originals/66/fd/03/66fd03b4ab97f1d45e2bfc5e00f94a2f.png",
+        "gif": "https://c.tenor.com/-I0E2FViCOsAAAAC/gojo-satoru.gif"
+      },
+      {
+        "id": 16,
+        "name": "Future Diary",
+        "image":"https://www.previewsworld.com/SiteImage/MainImage/STK618584",
+        "gif": "https://i.gifer.com/83N3.gif"
+      },
+      {
+        "id": 17,
+        "name": "Detective Conan",
+        "image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcv4SmJuTlPR1RGE3IyQgJl2Ok-k4MhVjKSUtpppiq4xTqwHjh3K_dhUUEf8jIV20ywYC5Enk7SyGccs1BZ6pPkhrLYB0M4T4yvM.png?r=f0f",
+        "gif": "https://c.tenor.com/a4YFy6JLFEMAAAAM/detective-conan-conan-edogawa.gif"
+      },
+      {
+        "id": 18,
+        "name": "Jojo's Bizzare Adventure",
+        "image": "https://static.wikia.nocookie.net/jjba/images/d/d5/Jojo%27s_Bizarre_Adventure_%28Classic_English_Logo_Vector%29.png/revision/latest?cb=20191028000323",
+        "gif": "https://c.tenor.com/5Pb9zKmKQmwAAAAC/star-platinum-jojo.gif"
+      },
+      {
+        "id": 19,
+        "name": "My Hero Academy",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/My_Hero_Academia_-_Heroes_Rising_logo.png/640px-My_Hero_Academia_-_Heroes_Rising_logo.png",
+        "gif": "https://static.wikia.nocookie.net/bokunoheroacademia/images/3/3d/United_States_of_Smash.gif/revision/latest?cb=20180618050047"
+      },
+      {
+        "id": 20,
+        "name": "Monster",
+        "image":"https://www.pikpng.com/pngl/m/283-2830104_monster-logo-monster-anime-clipart.png",
+        "gif": "https://cdn44.picsart.com/166498683000202.gif?to=crop&type=webp&r=40x40&q=50"
+      }
+    ]
+  }
